@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1643875540 source:c:\users\lllam\onedrive\Рабочий стол\proga\checksortic\dopfunc.cpp
+	"check_sortic.h"
+
+1643875966 c:\users\lllam\onedrive\Рабочий стол\proga\checksortic\check_sortic.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<windows.h>
+
+1643874763 source:c:\users\lllam\onedrive\Рабочий стол\proga\checksortic\dopfunc1.cpp
+	"check_sortic.h"
+
+1643872068 source:c:\users\lllam\onedrive\Рабочий стол\proga\checksortic\func_p.cpp
+	"check_sortic.h"
+
+1643874393 source:c:\users\lllam\onedrive\Рабочий стол\proga\checksortic\func_r.cpp
+	"check_sortic.h"
+
+1643874393 source:c:\users\lllam\onedrive\Рабочий стол\proga\checksortic\func_rr.cpp
+	"check_sortic.h"
+
+1643868414 source:c:\users\lllam\onedrive\Рабочий стол\proga\checksortic\func_s.cpp
+	"check_sortic.h"
+
+1643876319 source:c:\users\lllam\onedrive\Рабочий стол\proga\checksortic\main.cpp
+	"check_sortic.h"
+
+1643879156 source:c:\users\Администратор\desktop\sortic_check-main\dopfunc.cpp
+	"check_sortic.h"
+
+1643880373 c:\users\Администратор\desktop\sortic_check-main\check_sortic.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<windows.h>
+
+1643880223 source:c:\users\Администратор\desktop\sortic_check-main\func_p.cpp
+	"check_sortic.h"
+
+1643879697 source:c:\users\Администратор\desktop\sortic_check-main\func_r.cpp
+	"check_sortic.h"
+
+1643880262 source:c:\users\Администратор\desktop\sortic_check-main\func_rr.cpp
+	"check_sortic.h"
+
+1643876579 source:c:\users\Администратор\desktop\sortic_check-main\func_s.cpp
+	"check_sortic.h"
+
+1643879156 source:c:\users\Администратор\desktop\sortic_check-main\main.cpp
+	"check_sortic.h"
+
+1645039157 source:d:\project\sortic_check-main\dopfunc.cpp
+	"check_sortic.h"
+
+1643881293 d:\project\sortic_check-main\check_sortic.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<windows.h>
+
+1643881293 source:d:\project\sortic_check-main\func_p.cpp
+	"check_sortic.h"
+
+1643881293 source:d:\project\sortic_check-main\func_r.cpp
+	"check_sortic.h"
+
+1643881293 source:d:\project\sortic_check-main\func_rr.cpp
+	"check_sortic.h"
+
+1643881293 source:d:\project\sortic_check-main\func_s.cpp
+	"check_sortic.h"
+
+1645038257 source:d:\project\sortic_check-main\main.cpp
+	"check_sortic.h"
+

@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1643556134 source:d:\project\sorticproject\func_r.cpp
+	"sortic.h"
+
+1643835987 d:\project\sorticproject\sortic.h
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	<fstream>
+
+1643556134 source:d:\project\sorticproject\func_rr.cpp
+	"sortic.h"
+
+1643556134 source:d:\project\sorticproject\func_s.cpp
+	"sortic.h"
+
+1643841129 source:d:\project\sorticproject\main.cpp
+	"sortic.h"
+
+1643827043 source:d:\project\sorticproject\func_p.cpp
+	"sortic.h"
+
+1643841310 source:e:\sorticproject-main\func_p.cpp
+	"sortic.h"
+
+1643841310 e:\sorticproject-main\sortic.h
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	<fstream>
+
+1643841310 source:e:\sorticproject-main\func_r.cpp
+	"sortic.h"
+
+1643841310 source:e:\sorticproject-main\func_rr.cpp
+	"sortic.h"
+
+1643841310 source:e:\sorticproject-main\func_s.cpp
+	"sortic.h"
+
+1643841310 source:e:\sorticproject-main\main.cpp
+	"sortic.h"
+
+1643841310 source:c:\users\Администратор\downloads\sorticproject-main\func_p.cpp
+	"sortic.h"
+
+1643880062 c:\users\Администратор\downloads\sorticproject-main\sortic.h
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	<fstream>
+
+1643841310 source:c:\users\Администратор\downloads\sorticproject-main\func_r.cpp
+	"sortic.h"
+
+1643841310 source:c:\users\Администратор\downloads\sorticproject-main\func_rr.cpp
+	"sortic.h"
+
+1643841310 source:c:\users\Администратор\downloads\sorticproject-main\func_s.cpp
+	"sortic.h"
+
+1643879563 source:c:\users\Администратор\downloads\sorticproject-main\main.cpp
+	"sortic.h"
+
+1643876307 source:c:\users\Администратор\downloads\sorticproject-main\filefunctions.cpp
+	"sortic.h"
+
+1643876608 source:c:\users\Администратор\downloads\sorticproject-main\itc_functions.cpp
+	"sortic.h"
+
+1643876496 source:c:\users\Администратор\downloads\sorticproject-main\sortfunctions.cpp
+	"sortic.h"
+
+1645039066 source:d:\project\sorticprojectfinal-main\filefunctions.cpp
+	"sortic.h"
+
+1643880453 d:\project\sorticprojectfinal-main\sortic.h
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	<fstream>
+
+1643880453 source:d:\project\sorticprojectfinal-main\func_p.cpp
+	"sortic.h"
+
+1643880453 source:d:\project\sorticprojectfinal-main\func_r.cpp
+	"sortic.h"
+
+1643880453 source:d:\project\sorticprojectfinal-main\func_rr.cpp
+	"sortic.h"
+
+1643880453 source:d:\project\sorticprojectfinal-main\func_s.cpp
+	"sortic.h"
+
+1643880453 source:d:\project\sorticprojectfinal-main\itc_functions.cpp
+	"sortic.h"
+
+1643880453 source:d:\project\sorticprojectfinal-main\main.cpp
+	"sortic.h"
+
+1645041534 source:d:\project\sorticprojectfinal-main\sortfunctions.cpp
+	"sortic.h"
+
